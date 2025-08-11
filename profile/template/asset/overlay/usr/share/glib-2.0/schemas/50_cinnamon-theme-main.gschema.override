@@ -1,7 +1,7 @@
 
 
 [org.cinnamon.theme]
-name='Orchis-Dark'
+name='Vimix-dark-ruby'
 
 
 [org.cinnamon.desktop.wm.preferences]
@@ -12,7 +12,7 @@ theme='Arc-Dark'
 [org.cinnamon.desktop.interface]
 gtk-theme-backup='Adwaita'
 icon-theme-backup='gnome'
-gtk-theme='Orchis-Dark'
+gtk-theme='Vimix-dark-ruby'
 icon-theme='Citrus-red-dark'
 cursor-theme='breeze_cursors'
 cursor-size=24
