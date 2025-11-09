@@ -13,7 +13,7 @@
 | `+` |
 | [debian-iso-builder-import-pacstall-cinnamon-attach-themes](https://github.com/samwhelp/debian-iso-builder-import-pacstall-cinnamon-attach-themes) |
 | `=` |
-| [debian-iso-builder-include-pacstall-cinnamon-theme-vimix](https://github.com/samwhelp/debian-iso-builder-include-pacstall-cinnamon-theme-vimix) |
+| [debian-iso-builder-include-pacstall-cinnamon-attach-themes](debian-iso-builder-include-pacstall-cinnamon-attach-themes) |
 
 
 
